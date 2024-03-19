@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gurssing game</string>
+    <string name = "Title">Guessing Game</string>
+    <string name="Display" ></string>
+    <string name = "Input_Text">Enter Number</string>
+    <string name="Button">Run</string>
+</resources>
